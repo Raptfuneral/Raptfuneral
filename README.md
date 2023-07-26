@@ -14,6 +14,10 @@ I'm an SDET graduate with experience in manual software testing and coding using
   
   Linkedin: [click here](https://www.linkedin.com/in/angel-ayala-844bb286/)
 
+  or copy and past url: www.linkedin.com/in/angel-ayala-844bb286
+
+
+
   
   
 
