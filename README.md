@@ -10,7 +10,7 @@ I'm an SDET graduate with experience in manual software testing and coding using
   through an agile methodology approach.
 
   ### **Contact** & **Related links**
-  Email: [aayala.qa@gmail.com](mailto:aayala.qa@gmail.com)
+  Email: aayala.qa@gmail.com
   
   Linkedin: [click here](https://www.linkedin.com/in/angel-ayala-844bb286/)
 
